@@ -795,3 +795,4 @@ var pjax = new Pjax();
 window.addEventListener('popstate', pjax.onPjaxPopstate);
 
 export default pjax;
+
